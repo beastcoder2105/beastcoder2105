@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...full-stack development
 - 🌱 I’m currently learning ...python programming 
 - 📫 How to reach me ...twitter handle: @beastcoder18
-- 💪 I am A MAN
+- EMAIL ADDERESS: ashuparmar2305@gmail.com
+- 💪 I am A MAN no pronouns needed.
 - ⚡ hobbies: ...Gym only😊😎💪
 
 <!---
