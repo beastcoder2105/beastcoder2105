@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beastcoder2105
+- 👋 Hi, I’m Ashish
 - 👀 I’m interested in ...full-stack development
 - 🌱 I’m currently learning ...python programming 
 - 📫 How to reach me ...Twitter handle: @beastcoder18
